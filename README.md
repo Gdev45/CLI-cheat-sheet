@@ -6,7 +6,10 @@ A colorful terminal cheat sheet for Bash, CMD, and PowerShell commands.
 
 ```bash
 pipx install git+https://github.com/Gdev45/CLI-Cheat-sheet.git
-# or
+```
+ or
+ 
+```bash
 pip install git+https://github.com/Gdev45/CLI-Cheat-sheet.git
 ```
 # To use
